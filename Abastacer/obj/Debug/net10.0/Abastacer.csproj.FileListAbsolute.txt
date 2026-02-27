@@ -1,0 +1,14 @@
+C:\Users\gabriel\source\repos\Abastacer\bin\Debug\net10.0\Abastacer.exe
+C:\Users\gabriel\source\repos\Abastacer\bin\Debug\net10.0\Abastacer.deps.json
+C:\Users\gabriel\source\repos\Abastacer\bin\Debug\net10.0\Abastacer.runtimeconfig.json
+C:\Users\gabriel\source\repos\Abastacer\bin\Debug\net10.0\Abastacer.dll
+C:\Users\gabriel\source\repos\Abastacer\bin\Debug\net10.0\Abastacer.pdb
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\Abastacer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\Abastacer.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\Abastacer.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\Abastacer.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\Abastacer.dll
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\refint\Abastacer.dll
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\Abastacer.pdb
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\Abastacer.genruntimeconfig.cache
+C:\Users\gabriel\source\repos\Abastacer\obj\Debug\net10.0\ref\Abastacer.dll
