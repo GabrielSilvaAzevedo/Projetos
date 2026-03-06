@@ -1,0 +1,14 @@
+C:\Users\gabriel\source\repos\CrudConsole\bin\Debug\net10.0\CrudConsole.exe
+C:\Users\gabriel\source\repos\CrudConsole\bin\Debug\net10.0\CrudConsole.deps.json
+C:\Users\gabriel\source\repos\CrudConsole\bin\Debug\net10.0\CrudConsole.runtimeconfig.json
+C:\Users\gabriel\source\repos\CrudConsole\bin\Debug\net10.0\CrudConsole.dll
+C:\Users\gabriel\source\repos\CrudConsole\bin\Debug\net10.0\CrudConsole.pdb
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\CrudConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\CrudConsole.AssemblyInfoInputs.cache
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\CrudConsole.AssemblyInfo.cs
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\CrudConsole.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\CrudConsole.dll
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\refint\CrudConsole.dll
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\CrudConsole.pdb
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\CrudConsole.genruntimeconfig.cache
+C:\Users\gabriel\source\repos\CrudConsole\obj\Debug\net10.0\ref\CrudConsole.dll
